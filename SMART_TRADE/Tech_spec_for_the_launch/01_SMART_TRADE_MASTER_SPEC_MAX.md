@@ -40,6 +40,11 @@
 - `13_CODEX_PARTITION_PLAN.md` — разбивка проекта на части под Codex
 - `14_CODEX_EXECUTION_PROTOCOL.md` — протокол выполнения частей Codex
 - `CODE_SKELETON_PACK/README.md` — канонический skeleton-каркас проекта
+- `24_TECH_BASELINE_FOR_CODEX.md` — жёстко выбранный backend stack для Codex
+- `25_FIRST_WAVE_DELIVERY_SCOPE.md` — что именно писать в первой coding-wave
+- `26_SINGLE_FRAME_BASELINE.md` — подтверждение baseline `binance_futures_btcusdc_1m`
+- `27_RUNTIME_CONFIG_POLICY.md` — политика `YAML + ENV`
+- `28_MODULE_DOD_NO_TESTS.md` — определение готовности модуля без полного test-suite
 - `examples/` — вынесенные кодовые и структурные примеры по разделам
 
 Если companion docs противоречат главному файлу, приоритет у главного файла.
@@ -59,6 +64,20 @@
 Нормативное правило:
 Codex не имеет права менять проектную логику или перестраивать архитектуру.
 Он должен писать код только как исполнитель этой спецификации.
+
+---
+
+## 0.3. Codex readiness closure
+
+Пять последних blocker-пунктов Codex считаются закрытыми нормативно через файлы:
+
+- `24_TECH_BASELINE_FOR_CODEX.md`
+- `25_FIRST_WAVE_DELIVERY_SCOPE.md`
+- `26_SINGLE_FRAME_BASELINE.md`
+- `27_RUNTIME_CONFIG_POLICY.md`
+- `28_MODULE_DOD_NO_TESTS.md`
+
+После этого пакет следует считать достаточным для режима: "писать код без дальнейших уточнений".
 
 ---
 

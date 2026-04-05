@@ -1,6 +1,6 @@
 {
-  "package_name": "SMART_TRADE_spec_pack_v6",
-  "generated_at": "2026-04-05T21:54:14Z",
+  "package_name": "SMART_TRADE_spec_pack_v7",
+  "generated_at": "2026-04-05T23:17:23Z",
   "files": [
     {
       "path": ".env.example",
@@ -9,13 +9,13 @@
     },
     {
       "path": "00_README.md",
-      "size": 5563,
-      "sha256": "4951ec76a2cce75f6b9297ff31186a73ba89fb29dc26dc3102b2020ba0756b7b"
+      "size": 6232,
+      "sha256": "073fd84311f2fe3f3140b12908d187d5b8e863b16f17e552f3f9778b88bce534"
     },
     {
       "path": "01_SMART_TRADE_MASTER_SPEC_MAX.md",
-      "size": 75631,
-      "sha256": "d3fb82f73d1b6f9c0258f25b665f6ac1f7f020be1f286d7279aade504a29cdfb"
+      "size": 76641,
+      "sha256": "0c949e5d3cffc5aa60b281c13e76f723b5f8afbbde8ba0c1925a32ba8d76b771"
     },
     {
       "path": "02_OPENSPACE_DONOR_MAP.md",
@@ -59,8 +59,8 @@
     },
     {
       "path": "10_FEATURE_COVERAGE_MATRIX.md",
-      "size": 5882,
-      "sha256": "77468761c831ce3fb5fd670c9db965ace5ebd52beae590069e2fc870a92abdfb"
+      "size": 6318,
+      "sha256": "762a2c53bb48160319f2c64bfdf74576774012098dfd758eb312ca036226324d"
     },
     {
       "path": "11_MAX_APPROVED_FEATURE_APPENDIX.md",
@@ -69,8 +69,8 @@
     },
     {
       "path": "12_CODEX_START_HERE.md",
-      "size": 5029,
-      "sha256": "1256545eaf8f48fd3bc95d9ec3457483cece366793e43465f8bf3d50afed9eff"
+      "size": 5340,
+      "sha256": "1e34cbbba53138a855f4cdb0077ef224f9e7d3a2d770bc9b9f4430540f1e6ff8"
     },
     {
       "path": "13_CODEX_PARTITION_PLAN.md",
@@ -84,13 +84,13 @@
     },
     {
       "path": "15_FINAL_RELEASE_AUDIT.md",
-      "size": 7379,
-      "sha256": "75c4509b0441a30ef53e2645cc0162d782872da5903bcd7ef22e55ed8fee31d7"
+      "size": 7662,
+      "sha256": "b92dc11801f3fd279d5f2ec00ebd27aa4e17b411d9ed93526c8ccde61e82f534"
     },
     {
       "path": "16_CROSS_REFERENCE_INDEX.md",
-      "size": 4613,
-      "sha256": "c1ec827fee28f616122d99a701fe178abda342c1e3f561919fbb1098b081a157"
+      "size": 4886,
+      "sha256": "a04a9637df478ca4e2a9431d6af6f6996f9171a6c285b3e5f7d81bef1b088aad"
     },
     {
       "path": "17_EXECUTION_BRIDGE_CONTRACT.md",
@@ -126,6 +126,31 @@
       "path": "23_PROD_PILOT_ACCEPTANCE.md",
       "size": 3141,
       "sha256": "65435c931fc5801b21dc2441c4a2e502c18507c01438c1e2e7b1c41a1033e462"
+    },
+    {
+      "path": "24_TECH_BASELINE_FOR_CODEX.md",
+      "size": 3644,
+      "sha256": "87ba91d6ffec9efeb2e52a862a131555729980dd8c38b19c748846a1b2707f66"
+    },
+    {
+      "path": "25_FIRST_WAVE_DELIVERY_SCOPE.md",
+      "size": 2875,
+      "sha256": "629aa6ff8d1457e674869a84828b96a6627b56012244b3c309d45c375e5b97d1"
+    },
+    {
+      "path": "26_SINGLE_FRAME_BASELINE.md",
+      "size": 2169,
+      "sha256": "833731493e6a1ef5e144a14f2bad9358db62622317810be5b66af810a7aa9ef4"
+    },
+    {
+      "path": "27_RUNTIME_CONFIG_POLICY.md",
+      "size": 2054,
+      "sha256": "145d73378fbe2827ec77bc52a4efb7f3dfa1676b9d0ac1aee0ba2c6214e0bdc2"
+    },
+    {
+      "path": "28_MODULE_DOD_NO_TESTS.md",
+      "size": 3113,
+      "sha256": "7871e521d3182e301068c8b0e862a77aac11908a42d3f438c4dc26b3c240ccec"
     },
     {
       "path": "CODE_SKELETON_PACK/.env.example",
@@ -649,8 +674,8 @@
     },
     {
       "path": "SPEC_PACK_MANIFEST.json",
-      "size": 27294,
-      "sha256": "e9e32cc32488b84a77458d335df2b297b192ac1eed9452bff7c8786284e0218a"
+      "size": 28980,
+      "sha256": "3bd2e3b39c557bdfcb0bc5402b75196c1d0e61d8d94129f02bc5015141af16b8"
     },
     {
       "path": "Smart_trade_requirments.MD",
@@ -775,8 +800,8 @@
   ],
   "notes": [
     "Main spec is 01_SMART_TRADE_MASTER_SPEC_MAX.md",
-    "Companion docs 17–23 close the exact gaps identified by Codex readiness review",
-    "Package is now environment-complete at requirements/interface level; only real secrets and real deployment values remain user-supplied placeholders",
-    "No files from previous package were removed; v6 only supplements and cross-links the archive"
+    "Codex blockers from readiness review are closed by files 24-28",
+    "Real secrets, real URLs, and real runtime paths remain placeholders for user environment only",
+    "This package is intended to be sufficient for code generation without further logical clarification"
   ]
 }

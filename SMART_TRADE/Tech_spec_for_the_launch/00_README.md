@@ -34,6 +34,11 @@
 - `13_CODEX_PARTITION_PLAN.md`
 - `14_CODEX_EXECUTION_PROTOCOL.md`
 - `Smart_trade_requirments.MD`
+- `24_TECH_BASELINE_FOR_CODEX.md`
+- `25_FIRST_WAVE_DELIVERY_SCOPE.md`
+- `26_SINGLE_FRAME_BASELINE.md`
+- `27_RUNTIME_CONFIG_POLICY.md`
+- `28_MODULE_DOD_NO_TESTS.md`
 - `CODE_SKELETON_PACK/README.md`
 
 ### Вынесенные примеры
@@ -109,3 +114,13 @@
 - `23_PROD_PILOT_ACCEPTANCE.md` — критерии готовности к прод-пилоту
 
 Этот апдейт закрывает все интеграционные пробелы, на которые указал Codex в оценке готовности.
+
+
+## Что добавлено в v7
+
+- закрыты 5 последних blocker-пунктов от Codex как нормативные файлы;
+- зафиксирован обязательный тех-стек backend-а;
+- зафиксирована первая coding-wave;
+- зафиксирован single-frame baseline;
+- зафиксирована политика runtime-конфигов `YAML + ENV`;
+- добавлен явный DoD модулей без полного test-suite.

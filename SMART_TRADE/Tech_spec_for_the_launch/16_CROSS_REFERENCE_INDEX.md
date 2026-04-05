@@ -122,3 +122,9 @@
 | Price truth policy | `21_PRICE_TRUTH_POLICY.md` |
 | Env contract | `22_ENV_CONTRACT.md` |
 | Prod pilot acceptance | `23_PROD_PILOT_ACCEPTANCE.md` |
+
+- Tech baseline -> `24_TECH_BASELINE_FOR_CODEX.md`
+- First coding wave -> `25_FIRST_WAVE_DELIVERY_SCOPE.md`
+- Single-frame baseline -> `26_SINGLE_FRAME_BASELINE.md`
+- Runtime config policy -> `27_RUNTIME_CONFIG_POLICY.md`
+- DoD without tests -> `28_MODULE_DOD_NO_TESTS.md`

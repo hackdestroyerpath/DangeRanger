@@ -98,3 +98,14 @@
 | Price truth policy | covered | `21_PRICE_TRUTH_POLICY.md` |
 | Env contract and placeholders | covered | `22_ENV_CONTRACT.md`, `.env.example` |
 | Prod pilot acceptance | covered | `23_PROD_PILOT_ACCEPTANCE.md` |
+
+
+## Codex blocker closure
+
+| Feature | Status | Source |
+|---|---|---|
+| Tech baseline for Codex | covered | `24_TECH_BASELINE_FOR_CODEX.md` |
+| First coding wave scope | covered | `25_FIRST_WAVE_DELIVERY_SCOPE.md` |
+| Single-frame baseline confirmation | covered | `26_SINGLE_FRAME_BASELINE.md` |
+| Runtime config policy | covered | `27_RUNTIME_CONFIG_POLICY.md` |
+| Module DoD without tests | covered | `28_MODULE_DOD_NO_TESTS.md` |

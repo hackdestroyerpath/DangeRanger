@@ -154,3 +154,9 @@
 - prod pilot acceptance -> `23_PROD_PILOT_ACCEPTANCE.md`
 
 Итоговая оценка готовности пакета к исполнению: **100% на уровне требований и интерфейсов**, кроме реальных секретов и реальных URL пользователя, которые intentionally остаются placeholder-ами.
+
+
+## Дополнительный финальный вывод
+
+Codex blockers из readiness review закрыты через файлы `24-28`.
+Пакет теперь содержит: стек, первую волну, baseline-frame, config policy и DoD без тестов.
