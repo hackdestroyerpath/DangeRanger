@@ -1,0 +1,1 @@
+"""Protocol integrity gate."""

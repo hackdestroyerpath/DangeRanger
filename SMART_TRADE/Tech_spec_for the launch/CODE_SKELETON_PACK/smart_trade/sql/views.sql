@@ -1,0 +1,1 @@
+-- Canonical views live in spec; implementation goes here.

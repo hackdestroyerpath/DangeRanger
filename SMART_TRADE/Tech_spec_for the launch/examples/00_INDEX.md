@@ -1,0 +1,24 @@
+# Индекс вынесенных примеров
+
+- `04_3_terminy_i_ierarkhiya.md` — 3. Термины и иерархия
+- `06_5_konfiguratsiya.md` — 5. Конфигурация
+- `07_6_frame_granitsy_i_granularity.md` — 6. Frame: границы и granularity
+- `12_11_kontrakt_zaprosa_dannykh.md` — 11. Контракт запроса данных
+- `13_12_kontrakt_torgovogo_plana.md` — 12. Контракт торгового плана
+- `15_14_sostoyaniya_i_terminalnye_kody_keysa.md` — 14. Состояния и терминальные коды кейса
+- `16_15_fenotip_rynka.md` — 15. Фенотип рынка
+- `18_17_arena_sandbox_tester.md` — 17. Arena, Sandbox, Tester
+- `19_18_matozhidanie_i_proizvodnye_metriki.md` — 18. Матожидание и производные метрики
+- `20_19_tool_quality_coverage_monitor.md` — 19. Tool Quality + Coverage Monitor
+- `23_22_evolyutsionnoe_yadro_mvp.md` — 22. Эволюционное ядро MVP
+- `26_25_skill_storage_i_packaging.md` — 25. Skill storage и packaging
+- `28_27_fizicheskaya_struktura_proekta.md` — 27. Физическая структура проекта
+- `33_32_kanonicheskie_identifikatory_i_soglasheniya_ob_imenakh.md` — 32. Канонические идентификаторы и соглашения об именах
+- `34_33_sql_ddl_kanonicheskaya_sqlite_schema.md` — 33. SQL DDL (каноническая SQLite schema)
+- `35_34_kanonicheskie_json_schemas.md` — 34. Канонические JSON schemas
+- `36_35_internal_service_apis_i_openclaw_integration_api.md` — 35. Internal service APIs и OpenClaw integration API
+- `37_36_llm_workflows_kanonicheskie.md` — 36. LLM workflows (канонические)
+- `39_38_lab_workers_forward_arena_orchestration.md` — 38. Lab workers / forward arena orchestration
+- `40_39_overlay_evolution_and_source_policy_execution.md` — 39. Overlay evolution and source policy execution
+- `41_40_filesystem_artifacts.md` — 40. Filesystem artifacts
+- `43_42_detailed_coding_roadmap_by_files.md` — 42. Detailed coding roadmap by files
