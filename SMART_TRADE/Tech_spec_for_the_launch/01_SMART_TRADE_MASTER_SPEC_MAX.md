@@ -2445,3 +2445,19 @@ Companion docs:
 6. `05_HUMAN_AUTONOMY_MATRIX.md`
 7. `06_IMPLEMENTATION_CHECKLIST.md`
 8. `examples/` по мере надобности
+
+---
+
+## 47. Operational integration companion docs
+
+Следующие файлы являются обязательными operational-приложениями к master spec:
+
+- `17_EXECUTION_BRIDGE_CONTRACT.md`
+- `18_MARKET_DATA_PROVIDER_PROFILE.md`
+- `19_OPENCLAW_RUNTIME_PROFILE.md`
+- `20_PRODUCTION_BASELINE.md`
+- `21_PRICE_TRUTH_POLICY.md`
+- `22_ENV_CONTRACT.md`
+- `23_PROD_PILOT_ACCEPTANCE.md`
+
+Если какая-либо команда пишет код без чтения этих файлов, она неизбежно начинает гадать environment-level детали, что запрещено.

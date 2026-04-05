@@ -84,3 +84,17 @@
 | Codex part partitioning | covered | `13_CODEX_PARTITION_PLAN.md` |
 | Codex execution protocol | covered | `14_CODEX_EXECUTION_PROTOCOL.md` |
 | CODE_SKELETON_PACK | covered | `CODE_SKELETON_PACK/README.md` |
+
+
+## Дополнительное покрытие v6
+
+| Feature | Status | Source |
+|---|---|---|
+| Environment-level integration blockers from Codex | covered | files 17–23 |
+| Execution bridge exact contract | covered | `17_EXECUTION_BRIDGE_CONTRACT.md` |
+| Market data provider profile | covered | `18_MARKET_DATA_PROVIDER_PROFILE.md` |
+| OpenClaw runtime API profile | covered | `19_OPENCLAW_RUNTIME_PROFILE.md` |
+| Production baseline | covered | `20_PRODUCTION_BASELINE.md` |
+| Price truth policy | covered | `21_PRICE_TRUTH_POLICY.md` |
+| Env contract and placeholders | covered | `22_ENV_CONTRACT.md`, `.env.example` |
+| Prod pilot acceptance | covered | `23_PROD_PILOT_ACCEPTANCE.md` |

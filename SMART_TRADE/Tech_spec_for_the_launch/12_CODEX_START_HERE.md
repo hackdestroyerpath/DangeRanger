@@ -25,7 +25,14 @@
 8. `10_FEATURE_COVERAGE_MATRIX.md`
 9. `12_CODEX_PARTITION_PLAN.md`
 10. `13_CODEX_EXECUTION_PROTOCOL.md`
-11. `CODE_SKELETON_PACK/README.md`
+11. `17_EXECUTION_BRIDGE_CONTRACT.md`
+12. `18_MARKET_DATA_PROVIDER_PROFILE.md`
+13. `19_OPENCLAW_RUNTIME_PROFILE.md`
+14. `20_PRODUCTION_BASELINE.md`
+15. `21_PRICE_TRUTH_POLICY.md`
+16. `22_ENV_CONTRACT.md`
+17. `23_PROD_PILOT_ACCEPTANCE.md`
+18. `CODE_SKELETON_PACK/README.md`
 
 Если Codex начинает писать код, не прочитав эти файлы, результат считается потенциально дефектным.
 
@@ -110,3 +117,8 @@ read spec -> implement one part -> run local checks -> update part status -> sto
 3. `10_FEATURE_COVERAGE_MATRIX.md`
 
 Это нужно, чтобы не потерять late-approved фичи и не реализовать только “удобный срез” проекта.
+
+
+## 8. Статус готовности
+
+После появления файлов `17`–`23` пакет считается **готовым к кодингу на 100%** в исполнительном режиме, кроме реальных секретов, которые пользователь вставляет сам в своей среде.

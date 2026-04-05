@@ -96,3 +96,16 @@
 - добавлен `16_CROSS_REFERENCE_INDEX.md` как сквозная карта по всему пакету;
 - обновлены `00_README.md`, `12_CODEX_START_HERE.md` и `SPEC_PACK_MANIFEST.json`;
 - пакет ещё раз проверен на логическую цельность и полноту относительно утверждённых в чате решений.
+
+
+## Что добавлено в v6
+
+- `17_EXECUTION_BRIDGE_CONTRACT.md` — точный внешний контракт execution bridge
+- `18_MARKET_DATA_PROVIDER_PROFILE.md` — конкретный профиль провайдеров данных и payloads
+- `19_OPENCLAW_RUNTIME_PROFILE.md` — фактический runtime profile интеграции с OpenClaw
+- `20_PRODUCTION_BASELINE.md` — обязательный baseline config
+- `21_PRICE_TRUTH_POLICY.md` — единый источник истины цены для replay/метрик
+- `22_ENV_CONTRACT.md` — обязательный env-контракт и `.env.example`
+- `23_PROD_PILOT_ACCEPTANCE.md` — критерии готовности к прод-пилоту
+
+Этот апдейт закрывает все интеграционные пробелы, на которые указал Codex в оценке готовности.

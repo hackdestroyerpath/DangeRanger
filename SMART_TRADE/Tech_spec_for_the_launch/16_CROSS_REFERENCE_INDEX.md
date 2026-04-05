@@ -109,3 +109,16 @@
 - любые старые склейки и промежуточные черновики вне пакета
 - production code
 - устные договорённости, не попавшие в архив
+
+
+## 9. Environment-level integration
+
+| Тема | Где искать |
+|---|---|
+| Execution bridge contract | `17_EXECUTION_BRIDGE_CONTRACT.md` |
+| Market data providers | `18_MARKET_DATA_PROVIDER_PROFILE.md` |
+| OpenClaw runtime profile | `19_OPENCLAW_RUNTIME_PROFILE.md` |
+| Production baseline | `20_PRODUCTION_BASELINE.md` |
+| Price truth policy | `21_PRICE_TRUTH_POLICY.md` |
+| Env contract | `22_ENV_CONTRACT.md` |
+| Prod pilot acceptance | `23_PROD_PILOT_ACCEPTANCE.md` |

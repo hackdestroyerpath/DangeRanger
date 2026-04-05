@@ -325,3 +325,14 @@
 - при PR review;
 - при integration review;
 - при pre-release проверке.
+
+
+## 0.5 Environment preflight
+
+- [ ] Прочитан `17_EXECUTION_BRIDGE_CONTRACT.md`
+- [ ] Прочитан `18_MARKET_DATA_PROVIDER_PROFILE.md`
+- [ ] Прочитан `19_OPENCLAW_RUNTIME_PROFILE.md`
+- [ ] Зафиксирован baseline из `20_PRODUCTION_BASELINE.md`
+- [ ] Зафиксирован источник истины цены из `21_PRICE_TRUTH_POLICY.md`
+- [ ] Создан `.env` по `22_ENV_CONTRACT.md`
+- [ ] Прочитан `23_PROD_PILOT_ACCEPTANCE.md`

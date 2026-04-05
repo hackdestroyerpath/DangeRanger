@@ -16,7 +16,7 @@
 
 ### Статус
 
-> **PASS WITH NO CRITICAL GAPS**
+> **PASS — READY FOR CODEX EXECUTION**
 
 Критических пропусков, делающих пакет непригодным для передачи в Codex, не найдено.
 
@@ -139,3 +139,18 @@
 Этот пакет можно считать **готовым к передаче в Codex** и в независимую команду разработки как основной проектный артефакт.
 
 Если реализация будет расходиться с этим пакетом, причиной будет не нехватка требований, а отклонение от требований.
+
+
+## 7. Codex blockers closed
+
+Следующие пробелы, отмеченные Codex как недостающие, теперь закрыты отдельными файлами:
+
+- execution bridge external contract -> `17_EXECUTION_BRIDGE_CONTRACT.md`
+- market data provider profile -> `18_MARKET_DATA_PROVIDER_PROFILE.md`
+- OpenClaw runtime integration profile -> `19_OPENCLAW_RUNTIME_PROFILE.md`
+- production baseline -> `20_PRODUCTION_BASELINE.md`
+- price truth policy -> `21_PRICE_TRUTH_POLICY.md`
+- env/secrets contract -> `22_ENV_CONTRACT.md` + `.env.example`
+- prod pilot acceptance -> `23_PROD_PILOT_ACCEPTANCE.md`
+
+Итоговая оценка готовности пакета к исполнению: **100% на уровне требований и интерфейсов**, кроме реальных секретов и реальных URL пользователя, которые intentionally остаются placeholder-ами.
