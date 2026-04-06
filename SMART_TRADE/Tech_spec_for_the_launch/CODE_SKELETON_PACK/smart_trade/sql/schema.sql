@@ -1,1 +1,0 @@
--- Canonical schema lives in spec; implementation goes here.

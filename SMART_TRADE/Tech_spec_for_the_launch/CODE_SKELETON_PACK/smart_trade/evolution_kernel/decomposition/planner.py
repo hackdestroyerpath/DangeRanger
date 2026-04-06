@@ -1,1 +1,0 @@
-"""Structural decomposition planner."""

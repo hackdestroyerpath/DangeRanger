@@ -1,1 +1,0 @@
-"""Overlay application to sessions."""

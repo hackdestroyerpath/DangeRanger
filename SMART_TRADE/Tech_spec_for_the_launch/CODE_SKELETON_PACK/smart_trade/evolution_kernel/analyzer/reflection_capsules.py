@@ -1,1 +1,0 @@
-"""Decision and lesson capsules."""

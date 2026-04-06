@@ -1,1 +1,0 @@
-"""Causal fault graph."""

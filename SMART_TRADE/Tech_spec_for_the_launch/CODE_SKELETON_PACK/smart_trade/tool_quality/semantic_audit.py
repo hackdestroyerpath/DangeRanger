@@ -1,1 +1,0 @@
-"""Semantic second-opinion hooks."""

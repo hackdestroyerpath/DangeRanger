@@ -1,1 +1,0 @@
-"""Trade plan submission service."""

@@ -1,1 +1,0 @@
-"""Filesystem artifact writer/reader."""
