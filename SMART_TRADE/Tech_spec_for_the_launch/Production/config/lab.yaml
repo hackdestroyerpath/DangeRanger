@@ -1,0 +1,6 @@
+lab:
+  baseline_workers: 4
+  challenger_workers: 4
+  niche_workers: 2
+  zero_skill_workers: 2
+  scheduler_tick_sec: 5

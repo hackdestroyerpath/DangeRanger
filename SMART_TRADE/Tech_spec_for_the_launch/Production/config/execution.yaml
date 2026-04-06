@@ -1,0 +1,7 @@
+execution:
+  order_type: limit_only
+  require_tp: true
+  require_sl: true
+  entry_timeout_sec: 300
+  position_timeout_enabled: false
+  webhook_timeout_sec: 10

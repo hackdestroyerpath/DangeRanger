@@ -1,0 +1,16 @@
+frame_id: binance_futures_btcusdc_1m
+frame_family_id: binance_futures_1m
+exchange: Binance
+market: Futures
+symbols:
+  - BTCUSDC
+timeframe: 1m
+fee_pct: 0.0
+execution:
+  order_type: limit_only
+  require_tp: true
+  require_sl: true
+  entry_timeout_sec: 300
+  position_timeout_enabled: false
+skill_mode: EXPLICIT
+skill_scope: []

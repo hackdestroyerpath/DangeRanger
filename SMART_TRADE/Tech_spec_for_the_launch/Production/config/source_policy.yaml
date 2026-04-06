@@ -1,0 +1,3 @@
+source_policy:
+  profile: source_policy_scalping_v1
+  research_web_enabled: true

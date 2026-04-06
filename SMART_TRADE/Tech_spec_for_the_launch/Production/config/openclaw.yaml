@@ -1,0 +1,6 @@
+openclaw:
+  default_timeout_sec: 60
+  spawn_timeout_sec: 60
+  materialization_timeout_sec: 30
+  collect_artifacts_timeout_sec: 30
+  retry_attempts: 3

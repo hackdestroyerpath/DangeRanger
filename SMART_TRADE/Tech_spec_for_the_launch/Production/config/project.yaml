@@ -1,0 +1,12 @@
+project:
+  env: dev
+  db_path: ./var/smart_trade.db
+  artifacts_dir: ./var/artifacts
+  log_level: INFO
+  frame_default: binance_futures_btcusdc_1m
+
+runtime:
+  max_concurrent_prod_cases_per_frame_shard: 1
+  max_concurrent_lab_cases_per_frame_shard: 12
+  case_ttl_sec: 3600
+  duplicate_case_guard: true

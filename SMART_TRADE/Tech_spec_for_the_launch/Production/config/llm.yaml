@@ -1,0 +1,4 @@
+llm:
+  primary_model: gpt-5.4-pro
+  fallback_model: gpt-5.4-pro
+  timeout_sec: 120

@@ -1,0 +1,6 @@
+evolution:
+  windows: [10, 30, 100]
+  local_mutation_min_cases: 30
+  recombination_min_cases_per_parent: 40
+  soft_selection_min_cases: 20
+  hard_selection_min_cases: 50
